@@ -1,0 +1,10 @@
+{
+  "name": "docker_koa",
+  "version": "0.0.1",
+  "description": "Docker starter template for koa",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Bhanu P Chaudhary",
+  "license": "ISC"
+}
